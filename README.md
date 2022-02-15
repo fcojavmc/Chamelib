@@ -1,4 +1,4 @@
-# Chamelib
+# Chamelib (Chameleons can look at two different directions at the same time).
 
 ![Chameleon](./images/chameleon_pixabay.com_reptile-g4ffafc384_1920.png)
 
