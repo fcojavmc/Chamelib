@@ -1,5 +1,7 @@
 # Chamelib
 
+![Chameleon](./images/chameleon_pixabay.com_reptile-g4ffafc384_1920.png)
+
 [WIP. Work In Progress project (Alpha version)]
 
 I love C++ and I want to use it everwhere, even in frontend applications:
