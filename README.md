@@ -20,7 +20,7 @@ Although I want I didn't have to write very common types of frontend code:
     button->setWidth(100);       /// This is not my business (Get out of my code!).
     ...
 
-Do you see my logic?
+Do you get my logic?
 
 
 
