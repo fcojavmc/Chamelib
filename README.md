@@ -13,7 +13,7 @@ I love C++ and I want to use it everwhere, even in frontend applications:
 
 DRY: Same business logic code everywere! I only need to recompile.
 
-Although I want I didn't have to write very common types of frontend code:
+Although I don't want to write very common elsewhere frontend code such as:
 
     ...
     button->setText("Push me!"); /// Good! I want to set what the button says.
